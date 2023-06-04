@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subtitle {
+    background-color: black;
+    color: white;
+}
+
+.recipe {
+    margin-left: 20px;
+}
